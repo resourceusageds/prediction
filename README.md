@@ -27,8 +27,8 @@ The dataset is available on our [GitLab repository] (https://gitlab.com/data-sno
 
 
 ## License
-
-The content of this project itself is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>, and the underlying source code used to format and display that content is licensed under the MIT license. 
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>, and the underlying source code used to format and display that content is licensed under the MIT license. 
+The content of this project itself is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
 
 ### Acknowledgments
 

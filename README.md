@@ -17,12 +17,14 @@ Need to have the following python packages:
 
 ## Dataset
 
-The dataset is available on our [GitLab repository] (https://gitlab.com/data-snoopers/appload)
+The dataset is available on our [GitLab repository](https://gitlab.com/data-snoopers/appload)
 
 
 ## Authors & Contributor
 
-[Souvik Sengupta] (https://www.linkedin.com/in/souviksengupta91), Enrique Luis Rampi, Pratyay Roy
+[Souvik Sengupta](https://www.linkedin.com/in/souviksengupta91), Enrique Luis Rampi, Pratyay Roy
+
+
 
 
 
@@ -32,5 +34,8 @@ The content of this project itself is licensed under the <a rel="license" href="
 
 ## Acknowledgments
 
-[CRAAX Lab, Universitat BarcelonaTech] (https://craax.upc.edu/)
+[CRAAX Lab, Universitat BarcelonaTech](https://craax.upc.edu/)
+
+## For more details please feel free to contact us: 
+[Souviksengupta](souviksengupta91@gmail.com)
 

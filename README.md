@@ -36,6 +36,10 @@ The content of this project itself is licensed under the <a rel="license" href="
 
 [CRAAX Lab, Universitat BarcelonaTech](https://craax.upc.edu/)
 
-## For more details please feel free to contact us: 
-[Souviksengupta](souviksengupta91@gmail.com)
+
+## For more details please feel free to write down us: 
+
+**Souvik Sengupta** - souviksengupta91@gmail.com
+**Enrique Luis Rampi** - rampiolin@yahoo.com
+**Pratyay Roy** - pratyayroy@outlook.com
 

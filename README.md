@@ -1,6 +1,6 @@
-# Code for ML model to predict the resource usage (RAM usage and CPU usage) and execution time for upcoming task in Fog-to-Cloud system
+# Code for ML model to predict the resource usage (RAM usage and CPU usage) and execution time for the upcoming task in Fog-to-Cloud system
 
-This is the sample code for designing and validating the machine-learning based prediction model for predicting the resource usage and execution time for the resources of Fog-to-Cloud (F2C) computing paradigm. 
+This is the sample code for designing and validating the machine-learning-based prediction model for predicting the resource usage and execution time for the resources of Fog-to-Cloud (F2C) computing paradigm. 
 
 ### Prerequisites
 

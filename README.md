@@ -15,12 +15,12 @@ Need to have the following python packages:
 5. `scikit-learn`
 
 
-### Dataset
+## Dataset
 
 The dataset is available on our [GitLab repository] (https://gitlab.com/data-snoopers/appload)
 
 
-### Authors & Contributor
+## Authors & Contributor
 
 [Souvik Sengupta] (https://www.linkedin.com/in/souviksengupta91), Enrique Luis Rampi, Pratyay Roy
 
@@ -30,7 +30,7 @@ The dataset is available on our [GitLab repository] (https://gitlab.com/data-sno
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>, and the underlying source code used to format and display that content is licensed under the MIT license. 
 The content of this project itself is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />
 
-### Acknowledgments
+## Acknowledgments
 
 [CRAAX Lab, Universitat BarcelonaTech] (https://craax.upc.edu/)
 

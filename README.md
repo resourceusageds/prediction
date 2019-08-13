@@ -34,12 +34,12 @@ The content of this project itself is licensed under the <a rel="license" href="
 
 ## Acknowledgments
 
-[CRAAX Lab, Universitat BarcelonaTech](https://craax.upc.edu/)
+[CRAAX Lab, UPC BarcelonaTech](https://craax.upc.edu/)
 
 
 ## For more details please feel free to write down us: 
 
-**Souvik Sengupta** - souviksengupta91@gmail.com
-**Enrique Luis Rampi** - rampiolin@yahoo.com
-**Pratyay Roy** - pratyayroy@outlook.com
+* **Souvik Sengupta** - souviksengupta91@gmail.com
+* **Enrique Luis Rampi** - rampiolin@yahoo.com
+* **Pratyay Roy** - pratyayroy@outlook.com
 
